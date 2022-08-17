@@ -74,7 +74,8 @@ User; used for user home directories.
 >  ![Screenshot 2022-08-18 at 3.00.09 AM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660771814153/X_PFzbEhU.png align="left")
 
 
-## Do you what's the history behind two  /bin files?
+ **Do you what's the history behind two  /bin files?**
+
 Because of **storage limitations**, it was split to root binary folders and user binary folders.
 
 ###  7. /opt
